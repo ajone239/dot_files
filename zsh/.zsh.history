@@ -1,0 +1,1568 @@
+./bigwhite 12 19
+g++ -std=c++98 -Wall -Wextra  -o bigwhite bigwhite.cpp
+./bigwhite 12 19
+g++ -std=c++98 -Wall -Wextra  -o bigwhite bigwhite.cpp
+g++ -std=c++98 -Wall -Wextra  -o bigwhite bigwhite.cpp
+g++ -std=c++98 -Wall -Wextra  -o bigwhite bigwhite.cpp
+./bigwhite 12 19
+g++ -std=c++98 -Wall -Wextra  -o bigwhite bigwhite.cpp
+./bigwhite 12 19
+./gradeall
+./gradeall | less
+ls
+./gradescript 25
+diff -y tmp-025-correct-stderr.txt tmp-025-test-stderr.txt
+g++ -std=c++98 -Wall -Wextra  -o bigwhite bigwhite.cpp
+./gradescript 25
+diff -y tmp-025-correct-stderr.txt tmp-025-test-stderr.txt
+g++ -std=c++98 -Wall -Wextra  -o bigwhite bigwhite.cpp
+g++ -std=c++98 -Wall -Wextra  -o bigwhite bigwhite.cpp
+./gradescript 25
+g++ -std=c++98 -Wall -Wextra  -o bigwhite bigwhite.cpp
+./gradescript 25
+rm tmp*
+ls
+./gradeall
+./gradeall | less
+ls
+cp bigwhite.cpp ../lab2_submit
+ls
+cp bigwhite.cpp ../lab2_submit
+g++ -std=c++98 -Wall -Wextra  -o bigwhite bigwhite.cpp
+g++ -std=c++98 -Wall -Wextra  -o neg neg.cpp
+g++ -std=c++98 -Wall -Wextra  -o neg neg.cpp
+./gradeall
+./gradeall | less
+g++ -std=c++98 -Wall -Wextra  -o neg neg.cpp
+./gradeall | less
+./gradescript 45
+diff -y tmp-045-correct-stderr.txt tmp-045-test-stderr.txt
+g++ -std=c++98 -Wall -Wextra  -o neg neg.cpp
+./gradescript 45
+diff -y tmp-045-correct-stderr.txt tmp-045-test-stderr.txt
+diff -y tmp-045-correct-stderr.txt tmp-045-test-stdout.txt
+diff -y tmp-045-correct-stdout.txt tmp-045-test-stdout.txt
+g++ -std=c++98 -Wall -Wextra  -o neg neg.cpp
+./gradescript 45
+diff -y tmp-045-correct-stdout.txt tmp-045-test-stdout.txt
+diff -y tmp-045-correct-stderr.txt tmp-045-test-stdout.txt
+g++ -std=c++98 -Wall -Wextra  -o neg neg.cpp
+./gradescript 45
+diff -y tmp-045-correct-stderr.txt tmp-045-test-stdout.txt
+g++ -std=c++98 -Wall -Wextra  -o neg neg.cpp
+./gradescript 45
+diff -y tmp-045-correct-stderr.txt tmp-045-test-stdout.txt
+g++ -std=c++98 -Wall -Wextra  -o neg neg.cpp
+./gradescript 45
+g++ -std=c++98 -Wall -Wextra  -o neg neg.cpp
+./gradescript 45
+diff -y tmp-045-correct-stderr.txt tmp-045-test-stdout.txt
+diff -y tmp-045-correct-stderr.txt tmp-045-test-stderr.txt
+g++ -std=c++98 -Wall -Wextra  -o neg neg.cpp
+./gradescript 45
+ls
+./gradescript
+./gradeall
+g++ -std=c++98 -Wall -Wextra  -o neg neg.cpp
+./gradeall
+g++ -std=c++98 -Wall -Wextra  -o neg neg.cpp
+./gradeall
+cp neg.cpp ../lab2_submit
+ls ../lab2_submit
+g++ -std=c++98 -Wall -Wextra  -o neg neg.cpp
+g++ -std=c++98 -Wall -Wextra  -o hflip hflip.cpp
+g++ -std=c++98 -Wall -Wextra  -o hflip hflip.cpp
+./gradescript
+./gradeall
+./gradescript 58
+diff -y tmp-058-correct-stderr.txt tmp-058-test-stderr.txt
+g++ -std=c++98 -Wall -Wextra  -o hflip hflip.cpp
+g++ -std=c++98 -Wall -Wextra  -o hflip hflip.cpp
+g++ -std=c++98 -Wall -Wextra  -o hflip hflip.cpp
+g++ -std=c++98 -Wall -Wextra  -o hflip hflip.cpp
+./gradeall
+cp hflip.cpp ../lab2_submit
+ls ../lab2_submit
+ls
+g++ -std=c++98 -Wall -Wextra  -o vflip vflip.cpp
+./gradeall
+./gradescript 83
+diff -y tmp-083-correct-stderr.txt tmp-083-test-stderr.txt
+g++ -std=c++98 -Wall -Wextra  -o vflip vflip.cpp
+g++ -std=c++98 -Wall -Wextra  -o vflip vflip.cpp
+g++ -std=c++98 -Wall -Wextra  -o vflip vflip.cpp
+g++ -std=c++98 -Wall -Wextra  -o vflip vflip.cpp
+./gradeall
+!
+g++ -std=c++98 -Wall -Wextra  -o vflip vflip.cpp
+./gradeall
+./gradescript 76
+diff -y tmp-076-correct-stderr.txt tmp-076-test-stderr.txt
+g++ -std=c++98 -Wall -Wextra  -o vflip vflip.cpp
+./gradescript 76
+diff -y tmp-076-correct-stderr.txt tmp-076-test-stderr.txt
+g++ -std=c++98 -Wall -Wextra  -o vflip vflip.cpp
+./gradescript 76
+diff -y tmp-076-correct-stderr.txt tmp-076-test-stderr.txt
+ls
+g++ -std=c++98 -Wall -Wextra  -o vflip vflip.cpp
+./gradescript 76
+diff -y tmp-076-correct-stderr.txt tmp-076-test-stderr.txt
+!
+g++ -std=c++98 -Wall -Wextra  -o vflip vflip.cpp
+./gradescript 76
+diff -y tmp-076-correct-stderr.txt tmp-076-test-stderr.txt
+g++ -std=c++98 -Wall -Wextra  -o vflip vflip.cpp
+./gradescript 76
+diff -y tmp-076-correct-stderr.txt tmp-076-test-stderr.txt
+g++ -std=c++98 -Wall -Wextra  -o vflip vflip.cpp
+./gradescript 76
+diff -y tmp-076-correct-stderr.txt tmp-076-test-stderr.txt
+g++ -std=c++98 -Wall -Wextra  -o vflip vflip.cpp
+./gradescript 76
+diff -y tmp-076-correct-stderr.txt tmp-076-test-stderr.txt
+cat tmp-076-test-stdout.txt
+g++ -std=c++98 -Wall -Wextra  -o vflip vflip.cpp
+./gradescript 76
+cat tmp-076-test-stdout.txt
+g++ -std=c++98 -Wall -Wextra  -o vflip vflip.cpp
+./gradescript 76
+cat tmp-076-test-stdout.txt
+diff -y tmp-076-correct-stderr.txt tmp-076-test-stderr.txt
+g++ -std=c++98 -Wall -Wextra  -o vflip vflip.cpp
+./gradescript 76
+diff -y tmp-076-correct-stderr.txt tmp-076-test-stderr.txt
+g++ -std=c++98 -Wall -Wextra  -o vflip vflip.cpp
+./gradescript 76
+cat tmp-076-test-stdout.txt
+g++ -std=c++98 -Wall -Wextra  -o vflip vflip.cpp
+./gradescript 76
+g++ -std=c++98 -Wall -Wextra  -o vflip vflip.cpp
+./gradescript 76
+./gradeal
+./gradeall
+./gradescript 83
+ls
+rm tmp*
+ls
+./gradescript 83
+diff -y tmp-083-correct-stderr.txt tmp-083-test-stderr.txt
+g++ test.cpp
+cat ./pics/Red.pgm | ./a.out
+cat ./pics/Red.pgm | ./a.out | less
+g++ test.cpp
+cat ./pics/Red.pgm | ./a.out | less
+g++ test.cpp
+g++ test.cppg
+g++ test.cppg
+g++ test.cpp
+g++ test.cpp | le
+g++ test.cpp | less
+g++ test.cpp | less
+cat ./pics/Red.pgm | ./a.out | less
+kg++ test.cpp | less
+g++ test.cpp | less
+cat ./pics/Red.pgm | ./a.out | less
+./a.out < ./pics/Red.pgm
+./a.out < ./pics/Red.pgm | less
+ls
+rm tmp*
+g++ test.cpp | less
+./a.out < ./pics/Red.pgm | less
+g++ --std=c++98 --Wall --Wextra -o vflip vflip.cpp
+g++ --std=c++98 -Wall -Wextra -o vflip vflip.cpp
+g++ --std=c++98 -Wall -Wextra -o vflip vflip.cpp
+./gradeall
+g++ --std=c++98 -Wall -Wextra -o vflip vflip.cpp
+./gradeall
+./gradescript 76
+cat tmp-076-test-stdout.txt
+g++ --std=c++98 -Wall -Wextra -o vflip vflip.cpp
+./gradescript 76
+g++ --std=c++98 -Wall -Wextra -o vflip vflip.cpp
+./gradescript
+./gradeall
+./gradescript 83
+cat /home/jplank/cs140/Labs/Lab2/Gradescript-Examples/083.pgm
+cat /home/jplank/cs140/Labs/Lab2/Gradescript-Examples/083.pgm | less
+g++ --std=c++98 -Wall -Wextra -o vflip vflip.cpp
+./gradescript 83
+./gradeall
+./gradescript 90
+diff -y tmp-090-correct-stderr.txt tmp-090-test-stderr.txt
+cat /home/jplank/cs140/Labs/Lab2/Gradescript-Examples/090.pgm | less
+g++ --std=c++98 -Wall -Wextra -o vflip vflip.cpp
+./gradescript 90
+./gradeall
+make
+cp hflip.cpp ../lab2_submit
+cp vflip.cpp ../lab2_submit
+ta
+exit
+ta
+exit
+chmod +x fun.sh
+./fun.sh
+./fun.sh
+./fun.sh
+./gradescript
+./gradeall
+ls
+g++ --std=c++98 bigwhite bigwhite.cpp
+g++ --std=c++98  -o bigwhite bigwhite.cpp
+./gradeall
+g++ --std=c++98  -o bigwhite bigwhite.cpp
+./gradeall
+g++ --std=c++98  -o bigwhite bigwhite.cpp
+g++ --std=c++98  -o neg neg.cpp
+g++ --std=c++98  -o neg neg.cpp
+./gradeall
+./gradeall
+g++ --std=c++98  -o neg neg.cpp
+./gradeall
+ls
+ll
+tm tmp*
+rm tmp*
+ls
+cat test.cpp
+rm test*
+ls
+ll
+./fun.sh
+cat fun.sh
+ls
+./gradeall
+cat fun.skh
+cp *.cpp ../lab2_submit
+ls ../lab2_submit
+cd ../lab2_submit
+ls
+ll
+cat * | less
+cs_140_submit
+140_submit
+cd cs_140/lab2
+vim 
+vim 
+ls
+ll
+lz
+lx
+man lz
+lz --help
+cd ..
+ls
+ta
+y
+ta
+tl
+exit
+cd cs_140
+ls
+mkdir lab3
+ls
+cd lab3
+cp /home/plank/cs140/Labs/Lab3 ./
+cp /home/jplank/cs140/Labs/Lab3 ./
+ls
+cp /home/jplank/cs140/Labs/Lab3/* ./
+ls
+man cp
+cp /home/jplank/cs140/Labs/Lab3 ./
+cp -r /home/jplank/cs140/Labs/Lab3/* ./
+ls
+ls -s
+ls *
+vim makefile
+make clean
+./gradeall
+vim
+make all
+vim
+tl
+tn
+tl
+exit
+logout
+ta
+tl
+tn
+exit
+cd cs_140/lab3
+ls
+ll
+cd src
+vim
+make
+./gradeall
+./gradescript 1
+cat /home/jplank/cs140/Labs/Lab3/Gradescript-Examples/001.txt
+diff -y tmp-001-test-output.pgm tmp-001-correct-output.pgm
+cat tmp-001-test-output.pgm
+cat tmp-001-correct-output.pgm
+make
+./gradescript 1
+diff -y tmp-001-test-output.pgm tmp-001-correct-output.pgm
+./gradescript 1
+diff -y tmp-001-test-output.pgm tmp-001-correct-output.pgm
+cat tmp-001-correct-output.pgm
+cat tmp-001-test-output.pgm
+make
+./gradescript 1
+diff -y tmp-001-test-output.pgm tmp-001-correct-output.pgm
+make
+./gradescript 1
+diff -y tmp-001-test-output.pgm tmp-001-correct-output.pgm
+make
+./gradescript 1
+diff -y tmp-001-test-output.pgm tmp-001-correct-output.pgm
+make
+./gradescript 1
+diff -y tmp-001-test-output.pgm tmp-001-correct-output.pgm
+cat tmp-001-test-output.pgm
+make
+./gradescript 1
+cat tmp-001-test-output.pgm
+cat tmp-001-correct-output.pgm
+make
+./gradescript 1
+./gradeall
+./gradescript 2
+ls
+cat /home/jplank/cs140/Labs/Lab3/Gradescript-Examples/002.txt
+ls
+cat *.pgm
+make
+./gradescript 2
+cat *.pgm
+make
+make
+./gradescript 2
+./gradeall
+cd cs_140/lab3
+ls
+ta
+make
+vim src
+exit
+ls
+tl
+tn
+ta
+exit
+cd cs_140
+cd lab3
+ls
+./gradescript
+./gradeall
+ls
+make
+./gradeall
+vim src
+vim src
+vim src
+vim src
+vim src
+vim src
+vim src
+vim src
+make
+1.
+./gradeall
+make
+./gradeall
+ls
+rm tmp*
+ls
+./gradescript 1
+diff -y tmp-001-correct-output.pgm tmp-001-test-output.pgm
+cat tmp-001-test-output.pgm
+cat tmp-001-correct-output.pgm
+make
+./gradescript 1
+./gradeall
+./gradescript 3
+ls
+rm tmp*
+./gradescript 3
+diff -y tmp-003-correct-output.pgm tmp-003-test-output.pgm
+cat tmp-003-test-output.pgm
+cat tmp-003-correct-output.pgm
+cat tmp-003-correct-stderr.txt
+cat tmp-003-correct-stdout.txt
+cat /home/jplank/cs140/Labs/Lab3/Gradescript-Examples/003.txt
+make
+./gradescript 3
+cat tmp-003-test-stderr.txt
+ls
+make
+./gradescript 3
+cat tmp-003-test-stderr.txt
+cat tmp-003-test-stdout.txt
+cat tmp-003-correct-stdout.txt
+make
+./gradescript 3
+cat tmp-003-test-output.pgm
+ls ..
+mkdir ../lab3_submit
+ls
+ls ..
+cp -r src ../lab3_submit
+ls
+/l
+ls ../lab3_submit
+ls ../lab3_submit/src
+cp -r /home/jplank/cs140/Labs/Lab3 ./
+ls
+rm tmp*
+make clean
+cp ../lab3_submit/src src
+cp -r ../lab3_submit/src src
+cd src
+rm -r src
+ls
+cd ..
+cp -r ../lab3_submit/ src
+ls
+ls src
+rm -r src/lab3_submit
+cp ../lab3_submit/* src
+cp ../lab3_submit/src/* src
+ls
+make
+ls src
+make
+./gradeall
+./gradescript 3
+rm tmp-0*
+./gradescript 3
+cat tmp-003-test-output.pgm
+cat tmp-003-test-stdout.txt
+cat tmp-003-test-stderr.txt
+cat tmp-003-correct-stdout.txt
+make
+./gradescript 3
+make
+./gradeall
+ls
+rm tmp-034-correct-output.pgm
+./gradescript 5
+cat tmp-005-correct-*
+cat tmp-005-test-*
+cat /home/jplank/cs140/Labs/Lab3/Gradescript-Examples/005.txt
+make
+./gradeall
+ls
+rm tmp-058-*
+cat input.pgm
+ls
+ls pgm
+make
+make
+make
+./gradeall
+ls pgm/example_crop.pgm
+cat pgm/example_crop.pgm
+less pgm/example_crop.pgm
+less pgm/Red.pgm
+make
+./gradeall
+./gradeall | less
+./gradescript 42
+./gradescript 43
+./gradescript 42
+ls
+rm tmp*
+./gradescript 42
+diff -y tmp-042-test-output.pgm tmp-042-correct-output.pgm
+diff -y tmp-042-test-output.pgm tmp-042-correct-output.pgm
+cat tmp-042-test-output.pgm
+ls
+cat tmp-042-test-output.pgm
+./gradescript 42
+cat /home/jplank/cs140/Labs/Lab3/Gradescript-Examples/042.txt
+make
+make
+./gradeall
+./gradescript 5
+rm tmp*
+ls
+./gradescript 5
+diff -y tmp-005-correct-output.pgm tmp-005-test-output.pgm
+cat /home/jplank/cs140/Labs/Lab3/Gradescript-Examples/005.txt
+make
+./gradescript 5
+diff -y tmp-005-correct-output.pgm tmp-005-test-output.pgm
+make
+./gradescript 5
+diff -y tmp-005-correct-output.pgm tmp-005-test-output.pgm
+cat /home/jplank/cs140/Labs/Lab3/Gradescript-Examples/005.txt
+make
+./gradescript 5
+diff -y tmp-005-correct-output.pgm tmp-005-test-output.pgm
+make
+./gradescript 5
+./gradeall
+./gradescript 31
+rm tmp*
+./gradescript 31
+diff -y tmp-031-correct-output.pgm tmp-031-test-output.pgm
+diff -y tmp-031-correct-output.pgm tmp-031-test-output.pgm 
+diff -y tmp-031-correct-output.pgm tmp-031-test-output.pgm | less
+./gradescript 31
+cat /home/jplank/cs140/Labs/Lab3/Gradescript-Examples/031.txt
+cat tmp-031-test-stdout.txt
+diff -y tmp-031-correct-output.pgm tmp-031-test-output.pgm | less
+make
+./gradescript 31
+cat tmp-031-test-stdout.txt
+cat tmp-031-test-stderr.txt
+make
+./gradescript 31
+cat tmp-031-test-stderr.txt
+cat tmp-031-test-stdout.txt
+make
+./gradescript 31
+cat tmp-031-test-stdout.txt
+make
+./gradescript 31
+cat tmp-031-test-stdout.txt
+make
+./gradescript 31
+./gradeall
+./gradescript 41
+./gradescript 42
+rm tmp*
+./gradescript 42
+diff -y tmp-042-correct-output.pgm tmp-042-test-output.pgm
+./gradescript 42
+cat /home/jplank/cs140/Labs/Lab3/Gradescript-Examples/042.txt
+ls
+./bin/pgm_tester
+ls
+cat out*
+rm out*
+cat /home/jplank/cs140/Labs/Lab3/Gradescript-Examples/042.txt | ./bin/pgm_tester
+cat /home/jplank/cs140/Labs/Lab3/Gradescript-Examples/042.txt > test.txt
+cat test.txt | ./bin/pgm_tester
+ls
+rm out*
+cat test.txt | ./bin/pgm_tester
+ls
+ll
+cat out*
+ls
+./bin/pgm_tester
+rm out*
+ls
+rm tmp*
+make
+./gradescript 42
+cat tmp-042-test-stdout.txt
+cat tmp-042-correct-stdout.txt
+diff -y tmp-042-correct-output.pgm tmp-042-test-output.pgm
+cat /home/jplank/cs140/Labs/Lab3/Gradescript-Examples/042.txt
+./bin/pgm_tester
+cat out.pgm
+make
+./gradescript 42
+cat tmp-042-test-stdout.txt
+cat tmp-042-correct-stdout.txt
+make
+./gradescript 42
+./gradeall
+./gradescript 64
+cat tmp-064-test-stdout.txt
+s/test/correct/
+s/test/correct/
+cat tmp-064-test-stdout.txt
+cat tmp-064-test-stdout.txt :gs/test/correct/
+cat tmp-064-test-stdout.txT :gs/test/correct/
+cat tmp-064-test-stdout.txt:gs/test/correct/
+cat tmp-064-correct-stdout.txt
+./gradescript 80
+make
+./gradeall
+./gradescript 80
+cat tmp-080-correct-stdout.txt
+cat tmp-080-test-stdout.txt
+diff -y tmp-080-correct-output.pgm tmp-080-test-output.pgm
+diff -y tmp-080-correct-output.pgm tmp-080-test-output.pgm
+diff -y tmp-080-correct-output.pgm tmp-080-test-output.pgm | less
+./gradescript 80
+cat  /home/jplank/cs140/Labs/Lab3/Gradescript-Exa
+cat  /home/jplank/cs140/Labs/Lab3/Gradescript-Examples/080.txt
+make
+./gradeall
+make
+./gradeall
+cp src/pgm.cpp ../lab3_submit
+ls ../lab3_submit
+ls ../lab3_submit/src
+cd ..
+cd lab3_submit
+ls
+rm -r src
+less pgm.cpp
+1
+140_submit
+ls
+ll
+la
+lx
+exit
+ta
+tl
+exit
+ls
+cat mlab11b.cpp
+cd cs_140
+mkdir lab4
+mkdir lab4_submit
+cd lab4
+cp -r /home/jplank/cs140/Labs/Lab4
+cp -r /home/jplank/cs140/Labs/Lab4/* ./
+ls
+vim index.html
+./gradeall
+ls
+make clean
+./gradeall
+ls
+cd include
+ls
+vim hash_140.hpp
+exit
+make
+make clean
+make 
+make
+make
+make
+make
+make
+./gradeall
+./gradeall | less
+make
+cd bin
+./pgm_tester
+ls
+vim test.pgm
+./pgm_tester
+less test.pgm
+cd ..
+make
+cd bin
+./pgm_tester
+less test.pgm
+vim test.pgm
+cd ..
+cd bin
+rm test.pgm
+b
+cd ..
+cd bin
+./pgm_tester pp>
+./pgm_tester pp
+vim ~/.tmux.conf
+vim ~/.tmux.conf
+cd..
+cd ..
+make
+make
+make
+make
+make
+make
+vim
+cd src
+ls
+cat read_as_hex.cpp
+cd ..
+ls
+ls include
+ls
+ls src
+make
+.
+./gradeall
+vim
+exit
+cd ls
+cd cs_140
+cd lab4
+ls
+tl
+tn
+exit
+tl
+cd cs_140
+ls
+cd labd
+cd lab4
+ls
+ls
+tn
+exit
+cd cs_140
+ls
+cd lab4
+ls
+tn
+exit
+tl
+exit
+tl
+ta
+exit
+vim ./src
+vim ./src
+vim ./src
+vim ./src
+make
+make
+make
+make
+ls
+g++ test.cpp
+g++ test.cpp
+./a.out b9937df3fefbe66d8fcdda363730bf14
+g++ test.cpp
+./a.out b9937df3fefbe66d8fcdda363730bf14
+g++ test.cpp
+./a.out b9937df3fefbe66d8fcdda363730bf14
+./a.out 11
+./a.out 11
+g++ test.cpp
+g++ test.cpp
+./a.out 11
+./a.out b9937df3fefbe66d8fcdda363730bf14
+g++ test.cpp
+./a.out a000000a0000101
+g++ test.cpp
+./a.out a000000a0000101
+g++ test.cpp
+./a.out a000000a0000101
+./a.out a000000a0000101
+g++ test.cpp
+./a.out a000000a0000101
+g++ test.cpp
+./a.out a000000a0000101
+g++ test.cpp
+./a.out a000000a0000101
+./a.out a
+g++ test.cpp
+./a.out a
+./a.out a000000b
+g++ test.cpp
+./a.out a000000b
+g++ test.cpp
+./a.out a000000b
+g++ test.cpp
+./a.out a000000b
+./a.out a000000x
+./a.out a000000q
+./a.out a000000asd;lfkj
+./a.out qqqqqqq
+g++ test.cpp
+./a.out qqqqqqq
+./a.out 232345
+g++ test.cpp
+./a.out 232345
+./a.out qqqqqqq
+g++ test.cpp
+./a.out qqqqqqq
+./a.out 232345
+g++ test.cpp
+./a.out 232345
+./a.out qqqqqqq
+./a.out b9937df3fefbe66d8fcdda363730bf14
+./a.out b9937df3fefbe66z8fcdda363730bf14
+./a.out qqqqqqq
+g++ test.cpp
+./a.out b9937df3fefbe66z8fcdda363730bf14
+./a.out b9937df3fefbe66d8fcdda363730bf14
+g++ test.cpp
+./a.out b9937df3fefbe66d8fcdda363730bf14
+./a.out b9937df3fefbe66z8fcdda363730bf14
+make
+make
+make
+make
+./bin/hash_tester
+./bin/hash_tester 10 Last7 Linear ?
+./bin/hash_tester 10 Last7 Linear lks:
+make
+./bin/hash_tester 10 Last7 Linear boobs:
+ls
+make
+make clean
+make
+./gradeall
+make
+make
+make
+./gradeall
+./gradeall | less
+./gradeall | less
+./bin/hash_tester
+./bin/hash_tester 10 Last7 Linear ?
+./bin/hash_tester 10 Last7 Linear --
+make
+./gradeall
+make
+./gradeall
+make
+make
+make
+make
+make
+./bin/hash_tester
+./bin/hash_tester 10 Last7 Linear --
+make
+make
+make
+MAKE
+./gradeall
+./gradescript 5
+./gradescript 4
+cat /home/jplank/cs140/Labs/Lab4/Gradescript-Examples/004.txt
+cat /home/jplank/cs140/Labs/Lab4/Gradescript-Examples/005.txt
+ls
+cat tmp-005-correct-stdout.txt
+cat tmp-005-test-stdout.txt
+cat tmp-005-test-stderr.txt
+cat /home/jplank/cs140/Labs/Lab4/Gradescript-Examples/005.txt
+make
+./gradescript 5
+make
+diff -y tmp-005-correct-stdout.txt tmp-005-test-stdout.txt
+make
+./gradescript 5
+diff -y tmp-005-correct-stdout.txt tmp-005-test-stdout.txt
+make
+diff -y tmp-005-correct-stdout.txt tmp-005-test-stdout.txt
+./gradescript 5
+diff -y tmp-005-correct-stdout.txt tmp-005-test-stdout.txt
+make
+./gradeall
+./gradescript 3
+diff -y tmp-005-correct-stdout.txt tmp-005-test-stdout.txt
+diff -y tmp-003-correct-stdout.txt tmp-003-test-stdout.txt
+cat /home/jplank/cs140/Labs/Lab4/Gradescript-Examples/003.txt
+./bin/hash_tester 5 Last7 Linear
+make
+./gradescript 3
+./gradeall
+./gradescript 7
+./gradescript 6
+cat /home/jplank/cs140/Labs/Lab4/Gradescript-Examples/006.txt
+ls
+ls scripts
+ls
+vim gradescript
+ls Gradescript-Examples
+ls Gradescript-Examples/O
+ls Gradescript-Examples/007.cli
+cat Gradescript-Examples/007.cli
+cat tmp-007-correct-stdout.txt
+cat tmp-007-test-stdout.txt
+./bin/hash_tester 5 XOR Double
+cat Gradescript-Examples/007.cli
+cat Gradescript-Examples/007.txt
+lkdfjasl;kdfjaldfkj
+./bin/hash_tester 5 XOR Double
+./bin/hash_tester 5 XOR Double --
+./bin/hash_tester 5 XOR Double --
+./bin/hash_tester 5 XOR Double --
+cat Gradescript-Examples/007.txt
+./bin/hash_tester 5 XOR Double -- < head -4 cat Gradescript-Examples/007.txt
+head -4 cat Gradescript-Examples/007.txt
+head -4 cat Gradescript-Examples/007.txt | ./bin/hash_tester 5 XOR Double --
+head -4 Gradescript-Examples/007.txt | ./bin/hash_tester 5 XOR Double --
+P
+./bin/hash_tester 5 XOR Double --
+make
+make
+./gradescript 7
+diff -y tmp-007-correct-stdout.txt tmp-007-test-stdout.txt
+make
+make
+kmake
+make
+./gradescript 7
+diff -y tmp-007-correct-stdout.txt tmp-007-test-stdout.txt
+./gradescript 7
+diff -y tmp-007-correct-stdout.txt tmp-007-test-stdout.txt
+make
+./gradescript 7
+diff -y tmp-007-correct-stdout.txt tmp-007-test-stdout.txt
+./gradescript 7
+make
+./gradescript 7
+diff -y tmp-007-correct-stdout.txt tmp-007-test-stdout.txt
+make
+./gradescript 7
+diff -y tmp-007-correct-stdout.txt tmp-007-test-stdout.txt
+make
+./gradescript 7
+diff -y tmp-007-correct-stdout.txt tmp-007-test-stdout.txt
+make
+./gradescript 7
+diff -y tmp-007-correct-stdout.txt tmp-007-test-stdout.txt
+make
+./gradescript 7
+make
+diff -y tmp-007-correct-stdout.txt tmp-007-test-stdout.txt
+make
+./gradescript 7
+./gradeall
+make
+make
+make
+./gradeall
+./gradeall | less
+./gradescript 12
+diff -y tmp-012-correct-stdout.txt tmp-012-test-stdout.txt
+make
+./gradeall
+./gradeall | less
+./gradescript 18
+diff -y tmp-018-correct-stdout.txt tmp-018-test-stdout.txt
+cat /home/jplank/cs140/Labs/Lab4/Gradescript-Examples/018.txt
+make
+./gradescript 18
+./gradeall
+./gradescript 52
+diff -y tmp-052-correct-stdout.txt tmp-052-test-stdout.txt
+diff -y tmp-052-correct-stdout.txt tmp-052-test-stdout.txt | less
+make
+./gradeall
+make && ./gradeall
+make
+make && ./gradeall
+make
+./gradeall
+cp src/hash_140.cpp ../lab4_submit
+cd ../lab4_submit
+ls
+less hash_140.cpp
+ls
+cat hash_140.cpp
+140_submit
+tl
+ta
+ta
+exit
+ls
+cd cs_140
+ls
+mkdir submits
+cp -r *_submit submits
+ls submits
+ls submits *
+ls submits/*
+ls
+rm -r *_submit
+ls
+ls submits
+mkdir lab5
+mkdir submits/lab5_submit
+cd lab5
+ls
+cp -r /home/jplank/cs140/Labs/Lab5 ./
+ls
+rm -rf Lab5
+ls
+cp -r /home/jplank/cs140/Labs/Lab5/* ./
+ls
+./grade
+./gradeall
+ls
+ls
+ ls
+ls files
+ls src
+less src/bitmatrix_start.cpp
+ls
+ls Test-Matrices
+ll
+la
+lx
+lr
+cd
+exit
+tl
+cd cs_140/lab5
+ls
+tn
+exit
+exit
+sh
+man sh
+q
+tl
+tn
+cd cs_140
+ls
+cd lab5
+ls
+tn
+exit
+j
+ls
+./bin/bitmatrix_editor
+ls
+cd Gradescript-Examples
+ls
+ls
+less 001.txt
+less /home/jplank/cs140/Labs/Lab5/Test-Matrices/CM-05-05-4-0.txt
+ls /home/jplank/cs140/Labs/Lab5/Test-Matrices/CM-05-05-4-0.txt
+ls /home/jplank/cs140/Labs/Lab5/Test-Matrices/
+vim /home/jplank/cs140/Labs/Lab5/Test-Matrices/
+cd ..
+ls
+g++ test.cpp
+g++ test.cpp
+g++ test.cpp
+./a.out
+g++ test.cpp
+g++ test.cpp
+./a.out
+rm test.cpp
+rm a.out
+ta
+exit
+vim src
+vim src
+vim src
+vim src
+tl
+ta
+ta
+tl
+tn
+cd ..
+cd ajone239
+cd cs_140/lab5
+ls
+tn
+exit
+cd cs_140/lab5
+ls
+tl
+ta
+vim src
+vim NOTES.txt
+vim src
+cp -r /home/jplank/cs140/Labs/Lab5/* ./
+ls
+make
+make clean
+make
+ls
+mkdir obj/
+ls
+make
+cp src/bitmatrix_start.cpp src/bitmatrix.cpp
+make
+make clean
+make
+ls
+vim src
+vim src
+ll
+make
+make
+make clean
+make
+ls
+ls jpg
+lll
+ll
+make
+/bin
+./bin/bitmatrix_editor
+ls Gradescript-Examples
+cat Gradescript-Examples/001.txt
+cat Gradescript-Examples/001.txt | less
+cat /home/jplank/cs140/Labs/Lab5/Test-Matrices/CM-05-05-4-0.txt
+ta
+ta
+tl
+cd cs_140/lab5
+ls
+tn
+exit
+make
+make
+make
+vim ../../
+make
+vim ../../
+make
+ls
+ll
+\:
+\:
+make
+make
+make
+make | less
+make | less
+make
+make
+make
+make
+ta
+exit
+ta
+tl
+ta
+exit
+make
+make
+make
+vim include
+make
+vim index.html
+make
+make
+./bin/bitmatrix_editor
+./bin/bitmatrix_editor
+make
+./bin/bitmatrix_editor
+./bin/bitmatrix_editor promt-
+make
+./bin/bitmatrix_editor promt-
+make
+./bin/bitmatrix_editor promt-
+l
+ls
+cat testfile.txt
+make
+make
+make
+./bin/bitmatrix_editor promt-
+make
+make
+make
+make
+make
+./bin/bitmatrix_editor promt-
+cat testfile.txt
+make
+./bin/bitmatrix_editor promt-
+make
+./bin/bitmatrix_editor promt-
+make
+make
+./bin/bitmatrix_editor promt-
+./bin/bitmatrix_editor promt-
+make
+make
+make
+make
+make
+./bin/bitmatrix_editor promt-
+make
+./bin/bitmatrix_editor promt-
+make
+./bin/bitmatrix_editor promt-
+make
+./bin/bitmatrix_editor promt-
+make
+make
+ta
+exit
+make
+make
+make
+ta
+vim index.html
+ls
+vim src
+vim src
+vim src
+vim src
+ls
+ll
+vim src
+make
+cat testfile.txt
+clear
+cat testfile.txt
+clear
+cat testfile.txt
+clear
+cat testfile.txt
+cat testfile1.txt
+cat testfile2.txt
+ls
+ll
+ls
+cat testfile.txt
+ls
+cat testfile.txt
+./bin/bitmatrix_editor
+./bin/bitmatrix_editor prompt--
+exit
+ta
+exit
+tl
+cd cs_140
+ls
+cd lab5
+ls
+tn
+ta
+exit
+vim include
+./bin/bitmatrix_editor prompt--
+./bin/bitmatrix_editor prompt--
+./gradeall
+ls
+rm tmp*
+ls
+ls Rice.txt
+less Rice.txt
+rm *.txt
+ls
+make
+make clean
+make
+make
+ls correct_dir
+rm -r *_dir
+ls
+ls files
+rm a.out
+ls
+make 
+make clean
+make
+vim index.html
+vimdiff tmp-002-correct-stdout.txt tmp-002-test-stdout.txt
+vimdiff tmp-002-correct-stdout.txt tmp-002-test-stdout.txt
+vimdiff tmp-002-correct-stdout.txt tmp-002-test-stdout.txt
+vimdiff tmp-002-correct-stdout.txt tmp-002-test-stdout.txt
+vim inc
+vim include
+users
+ta
+exit
+ls
+ta
+exit
+ta
+exit
+ta
+exit
+vim include/bitmatrix.hpp 
+vim include/bitmatrix.hpp 
+make
+make
+make
+./gradeall
+make
+make
+make
+make clen
+make clean
+make
+make
+make
+./bin/bitmatrix_editor
+./bin/bitmatrix_ediTor
+make
+make
+make
+make
+make
+./gradeall
+make
+make
+make
+make
+make
+make
+./gradeall
+./gradeall
+ls
+cat tmp-021-correct-stderr.txt
+cat tmp-021-correct-stderr.txt
+cat tmp-021-test-stderr.txt
+ls
+ls
+ cat Drudgery.txt
+make
+./bin
+./bin/bitmatrix_editor
+./bin/bitmatrix_editor prompt--
+./bin/bitmatrix_editor prompt--
+make
+./gradeall
+./gradeall
+make
+./bin/bitmatrix_editor
+./bin/bitmatrix_editor prompt --
+./bin/bitmatrix_editor prompt--
+make
+make
+./bin/bitmatrix_editor prompt--
+./gradeall
+ls
+ls
+ls a.out
+make
+make
+make
+./gradeall
+./gradescript 2
+ls
+rm tmp-014-*
+ls
+diff -y tmp-002-correct-stdout.txt tmp-002-test-stdout.txt
+./gradescript 2
+cat /home/jplank/cs140/Labs/Lab5/Gradescript-Examples/002.txt
+make
+./gradescript 2
+make
+./gradescript 2
+make
+make | less
+make '2' | less
+make > /dev/null/ 2> hold.txt
+make > /dev/null 2> hold.txt
+maek
+make
+make > /dev/null 2> hold.txt
+make
+make
+make > /dev/null 2> hold.txt
+make
+make
+make
+make
+make
+make
+make
+make
+make
+./bin/bitmatrix_editor
+./bin/bitmatrix_editor prompt--
+make
+./bin/bitmatrix_editor prompt--
+make
+./bin/bitmatrix_editor prompt--
+make
+READ files/Inv-Ex.txt
+./bin/bitmatrix_editor prompt--
+make
+./bin/bitmatrix_editor prompt--
+make
+./bin/bitmatrix_editor prompt--
+./gradeall
+./gradeall
+./gradescript 2
+ls
+rm tmp *
+rm tmp*
+ls
+cp -r src ../submits/lab5_submit
+ls ../submits/lab5_submit
+ls ../submits/lab5_submit/src
+ll ../submits/lab5_submit/src
+./gradescript 2
+vimdiff tmp-002-correct-stdout.txt tmp-002-test-stdout.txt
+make
+./g
+./gradescript 2
+./gradeall
+./gradescript 9
+vimdiff tmp-009-correct-stdout.txt tmp-009-test-stdout.txt
+./gradescript 9
+make
+./gradescript 9
+./gradeall
+./gradescript 13
+vimdiff tmp-009-correct-stdout.txt tmp-009-test-stdout.txt
+vimdiff tmp-0013-correct-stdout.txt tmp-009-test-stdout.txt
+vimdiff tmp-0013-correct-stdout.txt tmp-009-test-stdout.txt
+vimdiff tmp-0013-correct-stdout.txt tmp-013-test-stdout.txt
+vimdiff tmp-013-correct-stdout.txt tmp-013-test-stdout.txt
+./gradeall
+vimdiff tmp-013-correct-stdout.txt tmp-013-test-stdout.txt
+vimdiff tmp-0-correct-stdout.txt tmp-013-test-stdout.txt33
+rm tmp*
+./gradeall
+rm tmp*
+./gradescript 33
+diff -y tmp-033-correct-stdout.txt tmp-033-test-stdout.txt
+./gradescript 33
+cat /home/jplank/cs140/Labs/Lab5/Gradescript-Examples/033.txt
+cp /home/jplank/cs140/Labs/Lab5/src/bitmatrix_editor.cpp src
+make
+make
+./gradescript 33
+diff -y tmp-033-correct-stdout.txt tmp-033-test-stdout.txt
+make
+./gradescript 33
+./gradeall
+./gradescript 37
+rm tmp*
+./gradescript 37
+diff -y tmp-037-correct-stdout.txt tmp-037-test-stdout.txt
+cat /home/jplank/cs140/Labs/Lab5/Gradescript-Examples/037.txt
+less /home/jplank/cs140/Labs/Lab5/Gradescript-Examples/037.txt
+diff -y tmp-037-correct-stdout.txt tmp-037-test-stdout.txt
+less /home/jplank/cs140/Labs/Lab5/Gradescript-Examples/037.txt
+diff -y tmp-037-correct-stdout.txt tmp-037-test-stdout.txt
+make
+./gradescript 37
+./gradeall
+./gradescript 152
+diff -y tmp-152-correct-stdout.txt tmp-152-test-stdout.txt
+make
+./gradescript 152
+./gradeall
+./gradescript 13
+cat /home/jplank/cs140/Labs/Lab5/Gradescript-Examples/037.txt sdfljks
+cp -r src ../submits/lab5_submit
+ls ../submits/lab5_submit/src
+ll ../submits/lab5_submit/src
+vimdiff src/bitmatrix.cpp ../submits/lab5_submit/src/bitmatrix.cpp
+make
+./gradescript 13
+./gradeall
+ls
+rm tmp*
+./gradescript 13
+diff -y tmp-013-correct-stdout.txt tmp-013-test-stdout.txt
+cat /home/jplank/cs140/Labs/Lab5/Gradescript-Examples/013.txt
+./gradescript 13
+ls
+diff -y tmp-013-correct-stdout.txt tmp-013-test-stdout.txt
+make
+./gradescript 13
+diff -y tmp-013-correct-stdout.txt tmp-013-test-stdout.txt
+make
+./gradescript 13
+make
+./gradescript 13
+./gradeall
+make
+make
+./gradeall
+make
+./gradeall
+make
+./gradeall
+make
+./gradeall
+make
+./gradeall
+make
+make
+./gradeall
+make
+./gradeall
+make
+make
+./gradeall
+make
+./gradeall
+make
+maek
+make
+./gradeall
+make
+make
+make
+./gradeall
+make && ./gradeall
+make && ./gradeall
+make && ./gradeall
+make && ./gradeall
+make && ./gradeall
+make && ./gradeall
+make
+make && ./gradeall
+users
+make && ./gradeall
+make && ./gradeall
+vim src
+ls ../submits
+ls ../submits/lab5_submit
+cp -r src ../submits/lab5_submit
+ls ../submits/lab5_submit
+ls ../submits/lab5_submit/src
+cp -r /home/jplank/cs140/Labs/Lab5/* ./
+make clean
+make 
+./gradeall
+ls
+rm tmp*
+ls
+rm test*
+ls your_dir
+cd your_dir
+la
+cd ..
+ls
+cp ../submits/lab5_submit/src ./
+cp -r ../submits/lab5_submit/src ./
+ls
+vim src
+vim src
+users
+vim src/
+vim src/
+ls
+rm tmp*
+ls
+cp -r /home/jplank/cs140/Labs/Lab5/* ./
+make clean
+cp -r ../submits/lab5_submit/src src
+cd src
+ls
+ls
+rm -r src
+ls
+cd ..
+cp ../submits/lab5_submit/src/bitmatrix.cpp src
+ls
+cd src
+ls
+vim bitmatrix
+ls
+ls
+make
+cd ..
+vim src
+vim src
+vim src
+vim src
+vim src
+make
+./gradeall
+cp src/bitmatrix.cpp ../submits/lab5_submit
+cd ../submits/lab5_submit
+ls
+rm -r src
+ls
+vim bitmatrix.cpp
+ll
+1:
+140_submit
+ls
+ls
+cat testfile.txt
+ls
+clear
+ls
+exit
+ta
+exit

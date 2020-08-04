@@ -1,0 +1,9 @@
+#!/bin/zsh
+
+echo "git prompt "
+echo "ADDED     ✚"
+echo "MODIFIED  ✹"
+echo "DELETED   ✖"
+echo "RENAMED   ➜"
+echo "UNMERGED  ═"
+echo "UNTRACKED ✭"

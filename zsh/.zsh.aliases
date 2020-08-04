@@ -1,0 +1,78 @@
+##################################################################
+#
+#         .zsh_files/.zsh.aliases file
+#
+#         Read in every time a new interactive zsh is started.
+#         Defines some useful aliases.
+#
+##################################################################
+
+autoload -U compinit
+zstyle ':completion:*' menu select
+zmodload zsh/complist
+compinit
+_comp_options+=(globdots)		# Include hidden files.
+
+bindkey -M menuselect 'h' vi-backward-char
+bindkey -M menuselect 'k' vi-up-line-or-history
+bindkey -M menuselect 'l' vi-forward-char
+bindkey -M menuselect 'j' vi-down-line-or-history
+
+alias RM='rm -f'
+alias vim='nvim'
+alias edali='nvim ~/.zsh.aliases'
+alias edirc='nvim ~/.zshrc'
+alias edpat='nvim ~/.zsh.path'
+alias edpro='nvim ~/.zsh.prompt'
+alias edmux='nvim ~/.tmux.conf'
+alias reali='. ~/.zshrc'
+
+alias b="cd .."
+alias code='cd ~/Documents/CODE'
+alias cs='cd ~/Documents/CODE/c++/cs_302'
+alias la="ls -la"
+alias ll="ls -lh"
+alias lr="ls -R"
+#alias ls="ls --color=auto -F" # linux
+alias ls='ls -GFh' # macos
+alias lx="ls -lash"
+alias note='cd ~/Documents/NOTES'
+alias ollie='cd /Volumes/OLLIE/'
+alias py="cd ~/Documents/CODE/python/"
+alias pyy="cd ~/Documents/CODE/python3/"
+
+alias ada="ssh ajone239@ada3.eecs.utk.edu"
+alias bread="ssh hollyw@73.113.23.66"
+alias breadh="ssh hollyw@breadmachine.local"
+alias breadip="ssh hollyw@10.0.0.184"
+alias chris='ssh hollywood@server.yahyeet69.team'
+alias hydra="ssh ajone239@hydra23.eecs.utk.edu"
+alias piny="ssh pi@hollyspi.local"
+alias ppiny="ping hollyspi.local"
+alias work_s="ssh austinj@10.0.0.72"
+# alias work_s="ssh austinj@austin-hpz820workstation.local"
+alias tunnel="ssh -L 5901:127.0.0.1:5901 -N -f -l sam siemens-hp-z820-workstation.local"
+
+alias airport="/System/Library/PrivateFrameworks/Apple80211.framework/Versions/Current/Resources/airport"
+alias cls='clear'
+alias darktable='/Users/austinjones/Desktop/Applications/darktable.app/Contents/MacOS/darktable --conf ui_last/gui_language=C'
+alias django-admin="/Users/austinjones/Library/Python/3.6/bin/django-admin"
+alias finder='open ./'
+alias p2="python"
+alias p3="python3"
+alias view="vim -R"
+alias wip="curl ipv4bot.whatismyipaddress.com && echo"
+alias wea="curl wttr.in"
+alias piai="open -a Private\ Internet\ Access"
+alias piad="pgrep Private\ Internet\ Access && piactl disconnect || echo 'PIA not running' "
+alias piac="pgrep Private\ Internet\ Access && piactl connect || echo 'PIA not running' "
+
+alias ga="git add"
+alias gac="git add . && git commit -m"
+alias gcm="git commit -m"
+alias gst="git status"
+alias ta="tmux a -t"
+alias taa="tmux a -t aliased"
+alias tl="tmux ls"
+alias tn="tmux new -s"
+alias tnn="tmux new -s aliased"
