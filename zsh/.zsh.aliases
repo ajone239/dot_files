@@ -50,6 +50,7 @@ alias hydra="ssh ajone239@hydra23.eecs.utk.edu"
 alias piny="ssh pi@hollyspi.local"
 alias ppiny="ping hollyspi.local"
 alias work_s="ssh austinj@10.0.0.72"
+alias work_i="ssh austinj@10.0.0.108"
 # alias work_s="ssh austinj@austin-hpz820workstation.local"
 alias tunnel="ssh -L 5901:127.0.0.1:5901 -N -f -l sam siemens-hp-z820-workstation.local"
 
