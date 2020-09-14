@@ -21,9 +21,9 @@ autocmd BufWritePre * %s/\s\+$//e
 " stop Vim from beeping all the time
 set vb
 
-set tabstop=3
-set shiftwidth=3
-set softtabstop=3
+set tabstop=2
+set shiftwidth=2
+set softtabstop=2
 set smarttab
 
 set expandtab
@@ -81,11 +81,14 @@ let g:netrw_browse_split = 4
 let g:netrw_altv =1
 let g:netrw_winsize = 25
 
-let @c = "Ypk0f ajjt(ajjAkbjjkkO/jj78a*/jjYjIREkbeturns: jjjI:kbName: jjjIArgs:jjoPurpose:jjoPkbjjPxAjjpjjkkkkkkkkI*kb jj"
-let @w = "069lbi* jj"
-let @r = ":s/.*/\\\=printf(\"%-68s*\",submatch(0)):noh"
+let @c = "2yyPIReturns: jjf aName: jjf(sArgs: jjf)CPurpose:jjo/jj78a*jja/jjYkkkkkkPjjjjjjI/* jj"
+let @w = "080lbi/* jj"
+let @r = ":s/.*/\\\=printf(\"%-78s*\\/\",submatch(0)):noh"
 let @f = "O\\begin{figure}[ht!]\\centeringjjjI\\includegraphics[width=0.7\\textwidth]{jjA}\\caption{}\\label{fig:}\\end{figure}jj"
 
-map  :ALEDetail
+map  :ALEDetail
 " walk into the world
 map  :Vexplore
+
+let g:ale_c_gcc_options = '-std=c11 -Wall -Wextra -Iinclude -I/Users/austinjones/Documents/CODE/C/cs_360/Libfdr'
+let g:ale_c_clang_options = '-std=c11 -Wall -Wextra -Iinclude -I/Users/austinjones/Documents/CODE/C/cs_360/Libfdr'
