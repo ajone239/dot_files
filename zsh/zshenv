@@ -1,4 +1,4 @@
-source $ZSH_PATH/.zsh.path
+source $ZSH_PATH/zsh.path
 
 # Sometimes I like to keep a history...
 export SAVEHIST="2000"

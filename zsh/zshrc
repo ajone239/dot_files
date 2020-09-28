@@ -8,10 +8,10 @@ unset MAIL
 
 # Get other shell configuration
 export ZSH_PATH=$HOME/.config/zsh
-source $ZSH_PATH/.zsh.prompt       # set the prompt
-source $ZSH_PATH/.zsh.path         # setup the PATH
-source $ZSH_PATH/.zsh.manpath      # setup the MANPATH
-source $ZSH_PATH/.zsh.aliases      # setup command aliases
+source $ZSH_PATH/zsh.prompt       # set the prompt
+source $ZSH_PATH/zsh.path         # setup the PATH
+source $ZSH_PATH/zsh.manpath      # setup the MANPATH
+source $ZSH_PATH/zsh.aliases      # setup command aliases
 
 bindkey -v
 export KEYTIMEOUT=1

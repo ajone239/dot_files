@@ -23,10 +23,10 @@
 
 # Setting PATH for Python 3.6
 # The original version is saved in .bash_profile.pysave
-GOPATH="/usr/local/go/bin/go"
-#export TEXINPUTS="$HOME/texmf"
 PATH="$ZSH_PATH/bin:${PATH}"
-PATH="$HOME/.cargo/bin:${PATH}"
+GOPATH="/usr/local/go/bin/go"
 PATH="$GOPATH:${PATH}"
+PATH="$HOME/.cargo/bin:${PATH}"
 PATH="/Library/TeX/texbin:${PATH}"
+#export TEXINPUTS="$HOME/texmf"
 export PATH
