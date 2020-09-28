@@ -41,11 +41,10 @@ alias ollie='cd /Volumes/OLLIE/'
 alias py="cd ~/Documents/CODE/python/"
 alias pyy="cd ~/Documents/CODE/python3/"
 
-alias ada="ssh ajone239@ada3.eecs.utk.edu"
 alias bread="ssh hollyw@73.113.23.66"
-alias breadh="ssh hollyw@breadmachine.local"
-alias breadip="ssh hollyw@10.0.0.184"
+alias breadh="ssh hollyw@10.0.0.184"
 alias chris='ssh hollywood@server.yahyeet69.team'
+alias ada="ssh ajone239@ada3.eecs.utk.edu"
 alias hydra="ssh ajone239@hydra23.eecs.utk.edu"
 alias piny="ssh pi@hollyspi.local"
 alias ppiny="ping hollyspi.local"
@@ -58,7 +57,7 @@ alias airport="/System/Library/PrivateFrameworks/Apple80211.framework/Versions/C
 alias cls='clear'
 alias darktable='/Users/austinjones/Desktop/Applications/darktable.app/Contents/MacOS/darktable --conf ui_last/gui_language=C'
 alias django-admin="/Users/austinjones/Library/Python/3.6/bin/django-admin"
-alias finder='open ./'
+alias fin='open .'
 alias p2="python"
 alias p3="python3"
 alias view="vim -R"
