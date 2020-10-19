@@ -20,6 +20,7 @@ bindkey -M menuselect 'j' vi-down-line-or-history
 
 alias RM='rm -f'
 alias vim='nvim'
+alias reali='. ~/.zshrc'
 alias edali='nvim $ZSH_PATH/zsh.aliases'
 alias edirc='nvim ~/.zshrc'
 alias edpat='nvim $ZSH_PATH/zsh.path'
@@ -27,7 +28,7 @@ alias edpro='nvim $ZSH_PATH/zsh.prompt'
 alias edmux='nvim ~/.config/tmux/.tmux.conf'
 alias edurl='nvim ~/.config/newsboat/urls'
 alias edvim='nvim ~/.config/nvim/init.vim'
-alias reali='. ~/.zshrc'
+alias notes='nvim ~/Documents/NOTES/notes.txt'
 
 #alias ls="ls --color=auto -F" # linux
 alias ls='ls -GFh' # macos
