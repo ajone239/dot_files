@@ -74,15 +74,15 @@ map <F4> :execute "vimgrep /" . expand("<cword>") . "/j **" <Bar> cw<CR>
 nnoremap <F5> "=strftime("%c")<CR>P
 inoremap <F5> <C-R>=strftime("%c")<CR>
 
-"" nerd tree kinda
-let g:netrw_banner = 0
-let g:netrw_liststyle = 0
-let g:netrw_browse_split = 4
-let g:netrw_altv =1
-let g:netrw_winsize = 25
+"""" nerd tree kinda
+""let g:netrw_banner = 0
+""let g:netrw_liststyle = 0
+""let g:netrw_browse_split = 4
+""let g:netrw_altv =1
+""let g:netrw_winsize = 25
 
 let @c = "2yyPIReturns: jjf aName: jjf(sArgs: jjf)CPurpose:jjo/jj78a*jja/jjYkkkkkkPjjjjjjI/* jj"
-let @w = "080lbi/* jj"
+let @w = "080lbijj0r/"
 let @r = ":s/.*/\\\=printf(\"%-78s*\\/\",submatch(0)):noh"
 let @f = "O\\begin{figure}[ht!]\\centeringjjjI\\includegraphics[width=0.7\\textwidth]{jjA}\\caption{}\\label{fig:}\\end{figure}jj"
 
