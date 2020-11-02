@@ -30,6 +30,8 @@ alias edurl='nvim ~/.config/newsboat/urls'
 alias edvim='nvim ~/.config/nvim/init.vim'
 alias notes='nvim ~/Documents/NOTES/notes.txt'
 
+alias C_INC_AJ="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include"
+
 #alias ls="ls --color=auto -F" # linux
 alias ls='ls -GFh' # macos
 alias la="ls -la"
@@ -42,12 +44,13 @@ alias note='cd ~/Documents/NOTES'
 alias ollie='cd /Volumes/OLLIE/'
 alias py="cd ~/Documents/CODE/python/"
 alias pyy="cd ~/Documents/CODE/python3/"
+alias p3env="source /Users/austinjones/Documents/CODE/python3/myenv/bin/activate"
 
 alias bread="ssh hollyw@73.113.23.66"
 alias breadh="ssh hollyw@10.0.0.184"
-alias chris='ssh hollywood@server.yahyeet69.team'
 alias ada="ssh ajone239@ada3.eecs.utk.edu"
 alias hydra="ssh ajone239@hydra23.eecs.utk.edu"
+alias octo="ssh pi@10.0.0.35"
 alias piny="ssh pi@hollyspi.local"
 alias ppiny="ping hollyspi.local"
 alias work_s="ssh austinj@10.0.0.73"

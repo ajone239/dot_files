@@ -87,7 +87,7 @@ let @r = ":s/.*/\\\=printf(\"%-78s*\\/\",submatch(0)):noh"
 let @f = "O\\begin{figure}[ht!]\\centeringjjjI\\includegraphics[width=0.7\\textwidth]{jjA}\\caption{}\\label{fig:}\\end{figure}jj"
 
 map  :ALEDetail
-map  :Vexplore
+map  :Explore
 
 let g:ale_c_gcc_options = '-std=c11 -Wall -Wextra -Iinclude -I/Users/austinjones/Documents/CODE/C/cs_360/Libfdr'
 let g:ale_c_clang_options = '-std=c11 -Wall -Wextra -Iinclude -I/Users/austinjones/Documents/CODE/C/cs_360/Libfdr'
