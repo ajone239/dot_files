@@ -1,2 +1,2 @@
 #/bin/zsh
-open -a Safari "$@" &
+open -a Brave\ Browser "$@" &

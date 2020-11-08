@@ -5,8 +5,10 @@ W_FILE="/Users/austinjones/.config/zsh/bin/weather.txt"
 if [[ ! -f "$W_FILE" ]]; then
   ssh hollyw@73.113.23.66 "curl -s wttr.in" > $W_FILE
 else
-  F_DAY=$(stat -f "%Sm" $W_FILE | cut -d " " -f "1 2 4")
-  TODAY=$(date | cut -d " " -f "2 3 6")
+  F_DAY=$(stat -f "%Sm" $W_FILE | sed "s/  / /g" | cut -d " " -f "1 2 4")
+  TODAY=$(date | sed "s/  / /g" | cut -d " " -f "2 3 6")
+  # echo $F_DAY
+  # echo $TODAY
 
   [[ "$F_DAY" != "$TODAY" ]] &&
     ssh hollyw@73.113.23.66 "curl -s wttr.in" > $W_FILE
