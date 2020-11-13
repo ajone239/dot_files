@@ -15,9 +15,6 @@ precmd_vcs_info() { vcs_info }
 precmd_functions+=( precmd_vcs_info )
 setopt prompt_subst
 
-PREV="$LIGHTGRAY<$BLUE%n$LIGHTGRAY::$RED%1~$NOCOLOR"
-POST="$LIGHTGRAY>%(?.$CYAN.$LIGHTRED) $ $NOCOLOR"
-
 # Color shortcuts
   export RED='%{[0;31m%}'
   export LIGHTRED='%{[1;31m%}'
@@ -50,8 +47,12 @@ POST="$LIGHTGRAY>%(?.$CYAN.$LIGHTRED) $ $NOCOLOR"
   export APURPLE='[0;35m'
 
 
- RPROMPT="$GRAY<-[$GREEN%T$GRAY::$CYAN%D$GRAY]$NOCOLOR"
- precmd () { __git_ps1 $PREV $POST " |%s| " }
+# PREV="$LIGHTGRAY<$BLUE%n(λ)$LIGHTGRAY::$RED%1~$NOCOLOR"
+PREV="$LIGHTGRAY<$CYAN(λ)$LIGHTGRAY::$RED%1~$NOCOLOR"
+POST="$LIGHTGRAY>%(?.$GREEN.$LIGHTRED) $ $NOCOLOR"
+
+RPROMPT="$GRAY<-[$GREEN%T$GRAY::$CYAN%D$GRAY]$NOCOLOR"
+precmd () { __git_ps1 $PREV $POST " |%s| " }
 
 export PROMPT
 export RPROMPT
