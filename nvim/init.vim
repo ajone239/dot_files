@@ -3,6 +3,9 @@ let &packpath = &runtimepath
 
 :syntax on
 
+syntax enable
+filetype plugin indent on
+
 set t_kb=
 set nocompatible
 set backspace=eol,indent,start
@@ -48,7 +51,8 @@ set wildmode=longest,list
 set incsearch
 set hlsearch
 
-:colorscheme elflord
+"colorscheme elflord
+colorscheme wombat256grf
 
 set showtabline=2
 set relativenumber

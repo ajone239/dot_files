@@ -28,5 +28,12 @@ GOPATH="/usr/local/go/bin/go"
 PATH="$GOPATH:${PATH}"
 PATH="$HOME/.cargo/bin:${PATH}"
 PATH="/Library/TeX/texbin:${PATH}"
+PATH="/usr/local/opt/openjdk/bin:$PATH"
+PATH="/usr/local/opt/binutils/bin:$PATH"
+
+
 #export TEXINPUTS="$HOME/texmf"
+CPPFLAGS="-I/usr/local/opt/openjdk/include $CPPFLAGS"
+export CPPFLAGS="-I/usr/local/opt/binutils/include $CPPFLAGS"
+export LDFLAGS="-L/usr/local/opt/binutils/lib $LDFLAGS"
 export PATH
