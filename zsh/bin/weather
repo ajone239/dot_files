@@ -23,4 +23,4 @@ fi
     sed -n -e '2p;$p' |
     tr '\n' '-' |
     sed 's/-$//g' ||
-  tail -n 32 $W_FILE
+  tail -n 33 $W_FILE

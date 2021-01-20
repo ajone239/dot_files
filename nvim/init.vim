@@ -16,8 +16,8 @@ set smartindent
 set viminfo="h"
 
 " Do C-style auto indentation on C/C++/Perl files only :)
-:filetype on
-:autocmd FileType c,cpp,perl :set cindent
+filetype on
+autocmd FileType c,cpp,perl :set cindent
 
 autocmd BufWritePre * %s/\s\+$//e
 
@@ -93,5 +93,11 @@ let @f = "O\\begin{figure}[ht!]\\centeringjjjI\\includegraphics[width=0.7\\text
 map  :ALEDetail
 map  :Explore
 
-let g:ale_c_gcc_options = '-std=c11 -Wall -Wextra -Iinclude -I/Users/austinjones/Documents/CODE/C/cs_360/Libfdr'
-let g:ale_c_clang_options = '-std=c11 -Wall -Wextra -Iinclude -I/Users/austinjones/Documents/CODE/C/cs_360/Libfdr'
+autocmd FileType c,cpp,perl :set cindent
+
+autocmd FileType c,cpp,perl :let g:ale_c_gcc_options = '-std=c11 -Wall -Wextra -Iinclude -I/Users/austinjones/Documents/CODE/C/cs_360/Libfdr'
+autocmd FileType c,cpp,perl :let g:ale_c_clang_options = '-std=c11 -Wall -Wextra -Iinclude -I/Users/austinjones/Documents/CODE/C/cs_360/Libfdr'
+
+autocmd FileType rust :let g:ale_linters = {'rust': ['cargo']}
+autocmd FileType rust :let g:rustfmt_autosave = 1
+autocmd FileType rust :let g:ale_rust_cargo_use_clippy = 1
